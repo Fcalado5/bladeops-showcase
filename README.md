@@ -1,6 +1,6 @@
 # BladeOps Showcase
 
-![BladeOps Login](login.png)
+![BladeOps Login](bladeops.login.png)
 
 ![BladeOps Dashboard](dashboard.png)
 
