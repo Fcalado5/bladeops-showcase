@@ -1,5 +1,9 @@
 # BladeOps Showcase
 
+![BladeOps Login](login.png)
+
+![BladeOps Dashboard](dashboard.png)
+
 BladeOps is an operational management platform focused on aviation and logistics workflows.
 
 ## Overview
@@ -22,9 +26,6 @@ Designed to support operational teams with efficient tools for managing flights,
 
 ## Status
 🚧 Currently in development.
-
-## Screenshots
-Project previews and interface screenshots will be added soon.
 
 ## Note
 This repository is a public showcase version. Sensitive source code and business logic remain private.
